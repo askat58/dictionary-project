@@ -15,6 +15,13 @@ export default function App() {
         </main>
         <footer className="App-footer">
           <small>
+            <a
+              href="https://github.com/askat58/dictionary-project"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              Open sorce code on GitHub.
+            </a>{" "}
             Coded by{" "}
             <a
               href="https://www.linkedin.com/in/joanna-el%C5%BCbieta-t-288561181/"
