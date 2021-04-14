@@ -14,16 +14,20 @@ a {
 }
 
 .App .App-header {
-  background: #f0fff0;
-  border: 1px solid #f0fff0;
-  border-radius: 6px;
+  
+  
   margin: 30px 0;
 }
 
 .App .App-logo {
+  background: #fefdff;
+  border: 1px solid #f0fff0;
+  border-radius: 25px;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
   max-width: 200px;
   display: block;
-  margin: 0 auto;
+  margin: 10px auto;
+  padding: 5px 10px;
 }
 
 .App .App-footer {
