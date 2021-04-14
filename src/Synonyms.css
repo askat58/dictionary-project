@@ -9,6 +9,11 @@
   padding-right: 15px;
   line-height: 1;
   margin-bottom:15px;
+  transition: all 200ms ease-in-out;
+}
+
+.Synonyms li:hover {
+  color: #8400c6;
 }
 
 .Synonyms small {
