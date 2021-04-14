@@ -1,9 +1,11 @@
 body {
-  background: #f9f8fe;
+  background: radial-gradient(circle at 6.4% 9.8%, rgb(88, 242, 174) 0%, rgb(161, 244, 128) 47.9%);
+  color: #591fce;
+   
 }
 
 a {
-  color: #9670f4;
+  color: #0c9cee;
 }
 
 .App {
@@ -11,17 +13,40 @@ a {
   margin: 0 auto;
 }
 
-.App-header {
+.App .App-header {
+  background: #f0fff0;
+  border: 1px solid #f0fff0;
+  border-radius: 6px;
   margin: 30px 0;
 }
 
-.App-logo {
+.App .App-logo {
   max-width: 200px;
   display: block;
   margin: 0 auto;
 }
 
-.App-footer {
+.App .App-footer {
+  background: #f0fff0;
+  border: 1px solid #f0fff0;
+  border-radius: 6px;
+  box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
+  color: #064a21;
+  font-size: 15px;
+  letter-spacing: 1.2px;
   text-align: center;
-  margin: 30px 0;
+  margin: 45px 0;
+  padding: 13px 0;
+
 }
+
+.App .App-footer a {
+  color: #206028;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.App .App-footer a:hover {
+  color: #591fce;
+}
+

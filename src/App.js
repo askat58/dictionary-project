@@ -9,7 +9,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">
           <img src={logo} className="App-logo img-fluid" alt="logo" />
-        </header>
+        </header><hr />
         <main>
           <Dictionary defaultKeyword="wine" />
         </main>
@@ -20,7 +20,7 @@ export default function App() {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Open sorce code on GitHub.
+              Open-source code available on GitHub.
             </a>{" "}
             Coded by{" "}
             <a
@@ -28,8 +28,9 @@ export default function App() {
               target="_blank"
               rel="noreferrer noopener"
             >
-              Joanna Tucka
-            </a>
+              Joanna Tucka.
+            </a>{" "}
+            &copy; 2021
           </small>
         </footer>
       </div>
