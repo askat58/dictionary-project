@@ -1,5 +1,5 @@
 body {
-  background: radial-gradient(circle at 6.4% 9.8%, rgb(88, 242, 174) 0%, rgb(161, 244, 128) 47.9%);
+  background: radial-gradient(circle at 6.4% 9.8%, rgb(194, 235, 173) 0%, rgb(76, 244, 10) 97.9%);
   color: #591fce;
    
 }
@@ -39,7 +39,7 @@ a {
   font-size: 15px;
   letter-spacing: 1.2px;
   text-align: center;
-  margin: 45px 0;
+  margin: 35px 0;
   padding: 13px 0;
 
 }
