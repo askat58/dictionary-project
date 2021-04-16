@@ -1,6 +1,6 @@
 body {
-  background: radial-gradient(circle at 6.4% 9.8%, rgb(194, 235, 173) 0%, rgb(76, 244, 10) 97.9%);
-  color: #591fce;
+  background: radial-gradient(circle at 4.4% 9.8%, rgb(97, 187, 182) 0%, rgb(161, 223, 255) 77.9%);
+  color: #4a3b85;
    
 }
 
@@ -35,7 +35,7 @@ a {
   border: 1px solid #f0fff0;
   border-radius: 6px;
   box-shadow: 0 10px 20px rgb(0 0 0 / 10%);
-  color: #064a21;
+  color: #4a3b85;
   font-size: 15px;
   letter-spacing: 1.2px;
   text-align: center;
@@ -45,7 +45,8 @@ a {
 }
 
 .App .App-footer a {
-  color: #206028;
+  color: #4a3b85;
+
   font-weight: bold;
   text-decoration: none;
 }
