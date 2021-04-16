@@ -8,12 +8,15 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-logo img-fluid" alt="logo" />
+          <a href="https://www.shecodes.io/" target="_blank" rel="noreferrer">
+            <img src={logo} className="App-logo img-fluid" alt="logo" />
+          </a>
         </header>
         <hr />
         <main>
           <Dictionary defaultKeyword="lost" />
         </main>
+        <hr />
         <footer className="App-footer">
           <small>
             <a
