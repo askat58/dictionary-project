@@ -19,6 +19,19 @@
 }
 
 .Phonetic .text {
+  font-size: 20px;
   font-weight: bold;
+  position: relative;
+  bottom: 16px;
   opacity: 0.5;
 }
+
+.Phonetic .audio {
+  background: radial-gradient(circle at 4.4% 9.8%, rgb(97, 187, 182) 12%, rgb(161, 223, 255) 57.9%);
+  border-radius: 25px;
+  height: 44px;
+  
+  margin-right: 20px;
+  padding: 3px;
+}
+
